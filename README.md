@@ -1,1 +1,1 @@
-# Mintlify-clone-assignment
+(https://mintlify01.netlify.app/)
